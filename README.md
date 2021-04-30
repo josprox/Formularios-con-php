@@ -1,4 +1,4 @@
-# Formularios-con-php
+# Formularios-con-php-y-Funciones
 Este repositorio te permite ver formularios simples con un diseño profesional, todo con bootstrap y JP Responsivo así puedas guiar algo basico en estructuras propias.
 
 - 📫 Copyright (c) 2021 de JOSPROX MX/ JOSPROX Internacional (https://josprox.com/  ,  https://josprox.com.mx/) Tales del presente adquisidor (José Luis Melchor Estrada).
